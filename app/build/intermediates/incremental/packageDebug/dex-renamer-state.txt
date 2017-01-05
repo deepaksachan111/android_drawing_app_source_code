@@ -1,0 +1,7 @@
+#Thu Jan 05 17:18:15 IST 2017
+base.0=E\:\\AndroidStudioProject\\android_drawing_app_source_part_31\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0f8f163c45e4ca81207e91e34a588d63c7722e74
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidStudioProject\\android_drawing_app_source_part_31\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c596a0b56053e52be647e8ca1f4402ac9587fa0c\\classes.dex
+base.1=E\:\\AndroidStudioProject\\android_drawing_app_source_part_31\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c596a0b56053e52be647e8ca1f4402ac9587fa0c
+file.0=E\:\\AndroidStudioProject\\android_drawing_app_source_part_31\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0f8f163c45e4ca81207e91e34a588d63c7722e74\\classes.dex
